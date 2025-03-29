@@ -1,5 +1,5 @@
 ## Spotify Recommendation System 🎵
-This project is a demonstration of a content-based recommendation system for Spotify, developed as part of an RHMBXI Technologies Machine Learning Internship Task. The system analyzes user preferences and audio features to generate personalized song recommendations.
+This project is a demonstration of a content-based recommendation system for Spotify, developed as part of an RHOMBIX Technologies Machine Learning Internship Task. The system analyzes user preferences and audio features to generate personalized song recommendations.
 ## 🎯 Introduction
 Music recommendation systems help users discover new songs by analyzing their listening history and preferences. With the rise of streaming services like Spotify, Apple Music, and Pandora, these systems have become essential for enhancing user experience.
 This project focuses on developing a content-based filtering recommendation system that suggests songs based on their features and similarity to the user’s preferred tracks.
